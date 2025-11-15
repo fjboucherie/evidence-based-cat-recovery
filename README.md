@@ -2,7 +2,7 @@
 
 ## About This Project
 
-Developed through 3+ years of active missing cat search work in the Netherlands, with a high recovery success rate (100%). 
+Developed through 3+ years of active missing cat search work in the Netherlands, with a high recovery success rate. 
 
 **The gap:** Pet owners receive conflicting advice during crisis. Shelters lack standardized, evidence-based protocols.
 
