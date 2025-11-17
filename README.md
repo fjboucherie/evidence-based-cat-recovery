@@ -6,8 +6,7 @@ Crisis management tools for pet owners searching for lost cats, based on peer-re
 
 ## About This Project
 
-Developed through 3+ years of active missing cat search work in the Netherlands, with a high recovery success rate. 
-
+Developed through 3+ years of active missing cat search work in the Netherlands, with a high recovery success rate (109 recoveries, 110 total searches)
 **The gap:** Pet owners receive conflicting advice during crisis. Shelters lack standardized, evidence-based protocols.
 
 **This solution:** Synthesizes 150+ pages of peer-reviewed behavioral research into accessible 1-page tools, field-tested during real search operations.
